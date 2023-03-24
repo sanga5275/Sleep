@@ -1,0 +1,12 @@
+C:\Users\82105\source\repos\3조 역설계\3조 역설계\bin\Debug\3조 역설계.exe.config
+C:\Users\82105\source\repos\3조 역설계\3조 역설계\bin\Debug\3조 역설계.exe
+C:\Users\82105\source\repos\3조 역설계\3조 역설계\bin\Debug\3조 역설계.pdb
+C:\Users\82105\source\repos\3조 역설계\3조 역설계\obj\Debug\3조 역설계.csproj.AssemblyReference.cache
+C:\Users\82105\source\repos\3조 역설계\3조 역설계\obj\Debug\3조 역설계.csproj.SuggestedBindingRedirects.cache
+C:\Users\82105\source\repos\3조 역설계\3조 역설계\obj\Debug\_3조_역설계.Form1.resources
+C:\Users\82105\source\repos\3조 역설계\3조 역설계\obj\Debug\_3조_역설계.Properties.Resources.resources
+C:\Users\82105\source\repos\3조 역설계\3조 역설계\obj\Debug\3조 역설계.csproj.GenerateResource.cache
+C:\Users\82105\source\repos\3조 역설계\3조 역설계\obj\Debug\3조 역설계.csproj.CoreCompileInputs.cache
+C:\Users\82105\source\repos\3조 역설계\3조 역설계\obj\Debug\3조 역설계.exe
+C:\Users\82105\source\repos\3조 역설계\3조 역설계\obj\Debug\3조 역설계.pdb
+C:\Users\82105\source\repos\3조 역설계\3조 역설계\obj\Debug\_3조_역설계.Form2.resources
